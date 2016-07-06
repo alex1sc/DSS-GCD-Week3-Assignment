@@ -30,12 +30,7 @@ There are 81 columns. The 79 last ones (3 to 81) are numeric. In the first data 
 
 1. subject : integer 1:30
 1. activity : factor of 6 value/label : integer/string :
- 1 WALKING 
- 2 WALKING_UPSTAIRS 
- 3 WALKING_DOWNSTAIRS 
- 4 SITTING
- 5 STANDING
- 6 LAYING 
+ 1 WALKING - 2 WALKING_UPSTAIRS - 3 WALKING_DOWNSTAIRS - 4 SITTING - 5 STANDING - 6 LAYING 
 1. tBodyAcc.mean.X 
 1. tBodyAcc.mean.Y 
 1. tBodyAcc.mean.Z 
